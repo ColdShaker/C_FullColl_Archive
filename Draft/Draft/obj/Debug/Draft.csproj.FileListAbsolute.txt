@@ -1,0 +1,7 @@
+C:\Users\holdb\source\repos\Draft\Draft\bin\Debug\Draft.exe.config
+C:\Users\holdb\source\repos\Draft\Draft\bin\Debug\Draft.exe
+C:\Users\holdb\source\repos\Draft\Draft\bin\Debug\Draft.pdb
+C:\Users\holdb\source\repos\Draft\Draft\obj\Debug\Draft.csprojAssemblyReference.cache
+C:\Users\holdb\source\repos\Draft\Draft\obj\Debug\Draft.csproj.CoreCompileInputs.cache
+C:\Users\holdb\source\repos\Draft\Draft\obj\Debug\Draft.exe
+C:\Users\holdb\source\repos\Draft\Draft\obj\Debug\Draft.pdb
