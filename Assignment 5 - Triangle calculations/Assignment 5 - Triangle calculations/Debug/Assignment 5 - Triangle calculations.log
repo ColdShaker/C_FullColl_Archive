@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\holdb\source\repos\Assignment 5 - Triangle calculations\Assignment 5 - Triangle calculations\Source.cpp(28,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\holdb\source\repos\Assignment 5 - Triangle calculations\Assignment 5 - Triangle calculations\Source.cpp(46,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\holdb\source\repos\Assignment 5 - Triangle calculations\Assignment 5 - Triangle calculations\Source.cpp(31,8): warning C4101: 'angleBRad': unreferenced local variable
+C:\Users\holdb\source\repos\Assignment 5 - Triangle calculations\Assignment 5 - Triangle calculations\Source.cpp(30,8): warning C4101: 'angleARad': unreferenced local variable
+  Assignment 5 - Triangle calculations.vcxproj -> C:\Users\holdb\source\repos\Assignment 5 - Triangle calculations\Debug\Assignment 5 - Triangle calculations.exe
