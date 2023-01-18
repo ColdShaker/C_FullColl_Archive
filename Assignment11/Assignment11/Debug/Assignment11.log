@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\holdb\source\repos\Assignment11\Assignment11\Source.cpp(142,6): warning C4101: 'parsValue': unreferenced local variable
+  Assignment11.vcxproj -> C:\Users\holdb\source\repos\Assignment11\Debug\Assignment11.exe
