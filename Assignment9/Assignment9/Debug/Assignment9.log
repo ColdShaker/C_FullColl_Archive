@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\holdb\source\repos\Assignment9\Assignment9\Source.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\holdb\source\repos\Assignment9\Assignment9\Source.cpp(124,26): warning C4018: '<': signed/unsigned mismatch
+  Assignment9.vcxproj -> C:\Users\holdb\source\repos\Assignment9\Debug\Assignment9.exe
